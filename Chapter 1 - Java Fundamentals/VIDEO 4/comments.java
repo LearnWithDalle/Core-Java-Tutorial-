@@ -7,7 +7,7 @@ public class comments {
          * adhas
          * dadjad
          */
-        int roll = 56; // ye mera roll no hai
+        // int roll = 56; // ye mera roll no hai
 
     }
 }
