@@ -1,3 +1,5 @@
+// THIS IS Parameterized Constracter 
+
 class objee {
     public static void main(String[] args) {
         int t1, t2, grandtotal;
